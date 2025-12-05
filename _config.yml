@@ -1,0 +1,13 @@
+# Site settings
+title: Professional Portfolio
+email: albert.crowley@tcg.com
+description: >-
+  My public speaking portfolio, technical papers, and blog posts.
+baseurl: "/professional-portfolio" # Replace with your repo name
+url: "https://albertcrowley.github.io"
+
+# Theme Configuration
+
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme 
