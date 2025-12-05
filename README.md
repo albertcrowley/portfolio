@@ -1,4 +1,4 @@
-# Al Crowley - Professional Portfolio
+# Al Crowley
 
 Thank you for your interest! Below you'll find a list of my presentations and postings, including links to slides and video recordings where available.
 
