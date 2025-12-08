@@ -1,3 +1,9 @@
+---
+layout: post
+title: Small Code Changes with Big Impact on Your DevSecOps Pipeline
+author: Al Crowley
+---
+
 # Small Code Changes with Big Impact on Your DevSecOps Pipeline
 
 I want to talk about moving your project into a DevSecOps philosophy. I’m not suggesting you rewrite your entire stack overnight. Instead, I want to focus on small, often line-level code changes that pay dividends after just an iteration or two.
