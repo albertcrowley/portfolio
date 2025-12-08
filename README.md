@@ -13,7 +13,7 @@ Thank you for your interest! Below you'll find a list of my presentations and po
 * **Conference/Event:** NIH Data Storage Summit
 * **Date:** October 2017
 * **Slides:** [View on Speaker Deck](https://speakerdeck.com/alcrowley/lessons-learned-from-a-data-center-meltdown)
-* **Blog:** [Lessons Learned from a Data Center Meltdown][https://www.tcg.com/blog/lessons-learned-from-a-data-center-meltdown/]
+* **Blog:** [Lessons Learned from a Data Center Meltdown](https://www.tcg.com/blog/lessons-learned-from-a-data-center-meltdown/)
 
 ## Publications
 
