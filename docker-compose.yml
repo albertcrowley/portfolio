@@ -1,0 +1,28 @@
+version: '3.7'
+services:
+  jekyll:
+    image: ruby:3.2-slim
+    container_name: jekyll_local_server
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - "4000:4000"
+    working_dir: /srv/jekyll
+    command: >
+      /bin/bash -c "
+        # 1. Install necessary build tools
+        apt-get update -qq && apt-get install -y build-essential; 
+      
+        #   !!! FIRST RUN ONLY !!!! 
+        # 2. Cleanup and Permissions FIX:
+        # Delete old vendor directory to ensure a clean install
+        # rm -rf vendor/bundle;
+      
+        # 3. Setup Bundler and install gems
+        gem install bundler;
+        bundle config set path 'vendor/bundle';
+        bundle install;
+      
+        # 4. Serve the site
+        bundle exec jekyll serve --watch --host 0.0.0.0 --drafts --force_polling
+      "

@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: Small Code Changes with Big Impact on Your DevSecOps Pipeline
 author: Al Crowley
 ---
