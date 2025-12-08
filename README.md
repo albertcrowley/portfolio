@@ -19,7 +19,7 @@ Thank you for your interest! Below you'll find a list of my presentations and po
 * **TCG University Presentation**
 * **Date:** July 29, 2021
 * **Slides:** [View on Speaker Deck](https://speakerdeck.com/alcrowley/small-code-changes-with-big-impact-on-your-devsecops-pipeline)
-* **Blog:** [Small Code Changes with Big Impact on Your DevSecOps Pipeline](/portfolio/2021/07/29/small-code-changes-with-big-impact-on-your-devsecops-pipeline.html)
+* **Blog:** [Small Code Changes with Big Impact on Your DevSecOps Pipeline](/portfolio/2021/07/29/Small-code-changes-with-big-impact-on-your-DevSecOps-pipeline.html)
 
 ## Publications
 
