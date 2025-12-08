@@ -15,6 +15,11 @@ Thank you for your interest! Below you'll find a list of my presentations and po
 * **Slides:** [View on Speaker Deck](https://speakerdeck.com/alcrowley/lessons-learned-from-a-data-center-meltdown)
 * **Blog:** [Lessons Learned from a Data Center Meltdown](https://www.tcg.com/blog/lessons-learned-from-a-data-center-meltdown/)
 
+### Small Code Changes with Big Impact on Your DevSecOps Pipeline
+* **TCG University Presentation**
+* **Date:** July 29, 2021
+* **Blog:** [Small Code Changes with Big Impact on Your DevSecOps Pipeline](/2021/07/29/Small-Code-Changes-with-Big-Impact-on-Your-DevSecOps-Pipeline.html)
+
 ## Publications
 
 * **Buccigrossi, Robert, Albert Crowley, Daniel Turner:** "A comprehensive system to develop secure Web accessible databases," *Association for the Advancement of Computing in Education, Proceedings of WebNet 96 - World Conference of the Web Society*, pp. 70–75
