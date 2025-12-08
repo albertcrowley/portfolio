@@ -3,7 +3,7 @@ title: Al Crowley - Professional Portfolio
 email: albert.crowley@tcg.com
 description: >-
   My public speaking portfolio, technical papers, and blog posts.
-baseurl: "/professional-portfolio" # Replace with your repo name
+baseurl: "/portfolio" # Replace with your repo name
 url: "https://albertcrowley.github.io"
 
 # Theme Configuration
